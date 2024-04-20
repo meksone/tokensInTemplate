@@ -1,7 +1,7 @@
 # 🪙 tokensInTemplate 
 very simple Google Apps Script function to replace text inside HTML template
 
-##Usage
+## Usage
 Copy this function to your Google Apps Script project, then create a simple HTML template.
 Then, use it like
   tokensInTemplate('name_of_your_html_template_without_.html',{token1Name: token1Value, token2Name: token2Value ... });
