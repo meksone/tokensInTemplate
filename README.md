@@ -10,5 +10,5 @@ You can use it like
 ```
 Due to a Google Apps Script Bug, **you can't use this function inside a library**, so you must copy all the code inside your script and execute from here.
 
-More info here https://stackoverflow.com/questions/65364534/google-apps-script-html-service-from-library-cant-execute-any-functions-poten
+More info here [StackOverflow](https://stackoverflow.com/questions/65364534/google-apps-script-html-service-from-library-cant-execute-any-functions-poten)
 (see comment 2 from Tanaike)
